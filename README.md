@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @wadoodmarashi
+- 👀 I’m interested in .NET development mainly c#
+- 🌱 I’m currently learning NoSql databases
